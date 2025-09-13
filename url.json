@@ -2,7 +2,7 @@
   "name": "My Sword",
   "symbol": "MYT",
   "description": "A powerful sword used by warriors",
-  "image": "https://github.com/oceanliu920/NFT/blob/main/3242.jpg",
+  "image": "https://github.com/oceanliu920/NFT/blob/a06d51e328d85a89fd2ed4dc6291a6a73b7ff58e/3242.jpg",
   "attributes": [
     { "trait_type": "Attack", "value": 100 },
     { "trait_type": "Level", "value": 5 }
